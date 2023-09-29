@@ -1,0 +1,14 @@
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ex4.AssemblyInfoInputs.cache
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ex4.AssemblyInfo.cs
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ex4.csproj.CoreCompileInputs.cache
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\bin\Debug\net7.0\ex4.exe
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\bin\Debug\net7.0\ex4.deps.json
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\bin\Debug\net7.0\ex4.runtimeconfig.json
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\bin\Debug\net7.0\ex4.dll
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\bin\Debug\net7.0\ex4.pdb
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ex4.dll
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\refint\ex4.dll
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ex4.pdb
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ex4.genruntimeconfig.cache
+D:\MDS\Dev_Natif\coursCsharp\javascript_proj\exo_exam\ex4\obj\Debug\net7.0\ref\ex4.dll
